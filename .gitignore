@@ -1,0 +1,11 @@
+myvenv
+venv
+/myvenv
+HMSDB.db
+HMSDB
+build
+dist
+log_in.exe
+log_in.spec
+corrections.txt
+desktop_app.spec
